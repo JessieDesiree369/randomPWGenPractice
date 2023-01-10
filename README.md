@@ -1,6 +1,6 @@
 # randomPWGenPractice.
 
-# Deployment Link: https://jessiedesiree369.github.io/randomPWGenPractice/
+# Deployment Link: https://jessiedesiree369.github.io/randomPasswordGenerator/
 
 <img width="465" alt="Screen Shot" src=".\images\screenShotPWGen.png">
 
